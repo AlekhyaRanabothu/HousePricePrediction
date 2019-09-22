@@ -1,12 +1,12 @@
 # House Price Prediction
 
-House price prediction Dataset is taken from Kaggle
+ -- House price prediction Dataset is taken from Kaggle
 
-ExploratoryDataAnalysis
+ -- ExploratoryDataAnalysis
 
-House Price Prediction using linear regression, regularization
+ -- House Price Prediction using linear regression, regularization
 
-Feature selection using correlation
+ -- Feature selection using correlation
 
-Evaluation of the model
+ -- Evaluation of the model
 
